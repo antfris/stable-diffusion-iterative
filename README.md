@@ -1,4 +1,4 @@
-# iterative functions
+# antfris iterative functions instructions
 Extremely basic first version of iterative image generation, taking one image and then slowly morphing it into a prompt.
 
 `run-iterations.ps1` has been added and `optimizedSD/optimized_img2img.py` has been modified.
